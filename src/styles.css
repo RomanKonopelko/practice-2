@@ -1,0 +1,18 @@
+body {
+  background-color: bisque;
+}
+
+.video {
+  width: 600px;
+}
+
+.picturesList {
+  display: flex;
+  flex-flow: row wrap;
+  max-width: 900px;
+}
+
+.picturesList li {
+  margin-right: 10px;
+  list-style: none;
+}
